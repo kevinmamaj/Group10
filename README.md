@@ -1,4 +1,4 @@
-# Group10
+# Group10-ElectroScope
 
 # Description
 Our project consists of a webAPI which is like an e-commerce and management system of a real business. 
