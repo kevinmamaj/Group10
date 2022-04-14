@@ -1,4 +1,4 @@
-# Group10
+# ElectroSpaceX
 
 # Description
 The project consists of a web application, which resembles an e-commerce and management system of an electronic business. The web application should be user-friendly, convenient and will contain at least three users, such as the client, economist and administrator. <br/> <br/>
